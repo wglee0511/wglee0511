@@ -8,6 +8,6 @@
 
 # 💓 Codes
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wglee0511&repo=github-readme-stats)](https://github.com/wglee0511github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/wglee0511/github-readme-stats)
 
 ---
