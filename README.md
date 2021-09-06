@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Wongyo%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wongyo%20Lee&fontSize=90)
 
 # Hi there, Nice to meet you 👋
 
