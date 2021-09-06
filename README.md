@@ -4,7 +4,7 @@
 # Hi there, Nice to meet you 👋
 
 
-### ❤ Frameworks, Platforms and Libraries</h3>
+### ❤ Frameworks, Platforms and Libraries
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML-ff4500?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -20,10 +20,11 @@
 <br/>
 
 ### 💛 Codes
-<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical)
-<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wglee0511&exclude_repo=spartagithub-readme-stats,anuraghazra.github.io)](https://github.com/wglee0511/github-readme-stats&theme=radical"/>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wglee0511&exclude_repo=spartagithub-readme-stats,anuraghazra.github.io)](https://github.com/wglee0511/github-readme-stats&theme=radical)
 
