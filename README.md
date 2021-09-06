@@ -26,7 +26,7 @@
 
 
 <h3 align="center">
- 💛 Codes
+🧡 Codes
 </h3>
 
 <p align="center">
