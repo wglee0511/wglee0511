@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Wongyo Lee%20render&fontSize=90)
+
 # Hi there, Nice to meet you 👋
 
 ## Welcome !
