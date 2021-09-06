@@ -23,9 +23,10 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical"/>
+ <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wglee0511&exclude_repo=spartagithub-readme-stats,anuraghazra.github.io)](https://github.com/wglee0511/github-readme-stats&theme=radical"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wglee0511&exclude_repo=spartagithub-readme-stats,anuraghazra.github.io)](https://github.com/wglee0511/github-readme-stats&theme=radical)
+
 
 
