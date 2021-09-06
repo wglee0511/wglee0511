@@ -3,14 +3,10 @@
 
 # Hi there, Nice to meet you 👋
 
-<br/>
-### Welcome !
-
-<br/>
 
 ### ❤ Frameworks, Platforms and Libraries</h3>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/HTML-ff4500?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS-1e90ff?style=flat-square&logo=CSS3&logoColor=white"/>
 
