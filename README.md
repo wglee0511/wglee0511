@@ -3,10 +3,10 @@
 
 # Hi there, Nice to meet you 👋
 
-## Welcome !
+#### Welcome !
 
 
-<h3 align="center"> ❤ Frameworks, Platforms and Libraries</h3>
+<h3 align="left"> ❤ Frameworks, Platforms and Libraries</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-ff4500?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -21,7 +21,7 @@
 
 <br/>
 
-### 💛 Codes
+#### 💛 Codes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical)
 
