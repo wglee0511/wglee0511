@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/Redux-8a2be2?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
 </p>
 
-<br/>
-
 
 <h3 align="center">
  💛 Codes
