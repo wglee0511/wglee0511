@@ -3,10 +3,12 @@
 
 # Hi there, Nice to meet you 👋
 
-#### Welcome !
+<br/>
+### Welcome !
 
+<br/>
 
-<h3 align="left"> ❤ Frameworks, Platforms and Libraries</h3>
+### ❤ Frameworks, Platforms and Libraries</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-ff4500?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -21,9 +23,11 @@
 
 <br/>
 
-#### 💛 Codes
+### 💛 Codes
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wglee0511&exclude_repo=spartagithub-readme-stats,anuraghazra.github.io)](https://github.com/wglee0511/github-readme-stats&theme=radical)
 
