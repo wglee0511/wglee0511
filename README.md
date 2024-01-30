@@ -1,6 +1,6 @@
 # Hi there, Nice to meet you 👋
 
-Stacks
+## Stacks
 
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/ReactNative-black?style=flat-square&logo=React&logoColor=61DAFB"/>
@@ -19,3 +19,7 @@ Stacks
 <img src="https://img.shields.io/badge/swift-black?style=flat-square&logo=swift&logoColor=F05138"/>
 <img src="https://img.shields.io/badge/Amazonroute53-black?style=flat-square&logo=amazonroute53&logoColor=8C4FFF"/>
 <img src="https://img.shields.io/badge/Amazons3-black?style=flat-square&logo=amazons3&logoColor=569A31"/>
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical)
