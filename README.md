@@ -23,3 +23,5 @@
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wglee0511&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wglee0511)](https://github.com/anuraghazra/github-readme-stats)
